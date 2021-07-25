@@ -58,3 +58,8 @@ Parameters Sample
     MaxYear: 2020
     MinPrice: 15000
     MaxPrice: 20000
+
+
+Using Postman
+
+![Imgur Image](https://imgur.com/KZwUu2H.jpg)
