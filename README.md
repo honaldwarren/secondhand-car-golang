@@ -30,7 +30,7 @@ Run the App
 
     Linux
     go build
-    ./service-pattern-go
+    ./secondhand-car-golang
     
     Windows
     go build
